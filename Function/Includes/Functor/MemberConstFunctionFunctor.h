@@ -30,6 +30,6 @@ namespace fnu
 	};
 }
 
-#include "..\Inlines\Functor\MemberConstFunctionFunctor.inl"
+#include "..\..\Inlines\Functor\MemberConstFunctionFunctor.inl"
 
 #endif

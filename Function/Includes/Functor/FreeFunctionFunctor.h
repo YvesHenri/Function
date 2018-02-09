@@ -28,6 +28,6 @@ namespace fnu
 	};
 }
 
-#include "..\Inlines\Functor\FreeFunctionFunctor.inl"
+#include "..\..\Inlines\Functor\FreeFunctionFunctor.inl"
 
 #endif
